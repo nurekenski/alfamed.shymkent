@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://alfamed.kz/sitemap.xml
+Sitemap: https://nurekenski.github.io/alfamed.shymkent/sitemap.xml
